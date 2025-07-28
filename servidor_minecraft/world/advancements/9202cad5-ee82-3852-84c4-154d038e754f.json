@@ -761,15 +761,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
-    "criteria": {
-      "has_glass": "2025-07-28 21:11:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 19:27:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:11:07 +0000"
     },
     "done": true
   },
@@ -779,15 +779,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2025-07-28 22:04:17 +0000"
-    },
-    "done": true
-  },
   "ic2:extinguish_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 20:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-28 22:04:17 +0000"
     },
     "done": true
   },
@@ -1148,6 +1148,12 @@
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-28 15:07:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 22:35:44 +0000"
     },
     "done": true
   },
@@ -2844,15 +2850,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-07-28 21:56:26 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/leafy_salad": {
     "criteria": {
       "has_lettuce": "2025-07-28 18:32:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-07-28 21:56:26 +0000"
     },
     "done": true
   },
@@ -3980,15 +3986,15 @@
     },
     "done": true
   },
-  "ic2:raw_silver_block_recipe_advancement": {
-    "criteria": {
-      "hasItem": "2025-07-28 21:27:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-07-28 20:46:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:raw_silver_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 21:27:54 +0000"
     },
     "done": true
   },
@@ -5448,15 +5454,15 @@
     },
     "done": true
   },
-  "reliquary:recipes/reliquary/holy_hand_grenade": {
-    "criteria": {
-      "has_glowing_water": "2025-07-28 20:50:05 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-28 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/holy_hand_grenade": {
+    "criteria": {
+      "has_glowing_water": "2025-07-28 20:50:05 +0000"
     },
     "done": true
   },
@@ -6012,15 +6018,15 @@
     },
     "done": true
   },
-  "xnet:recipes/xnet/facade": {
-    "criteria": {
-      "glass": "2025-07-28 21:11:07 +0000"
-    },
-    "done": true
-  },
   "byg:recipes/byg.byg/aspen_planks": {
     "criteria": {
       "has_logs": "2025-07-28 18:59:07 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/facade": {
+    "criteria": {
+      "glass": "2025-07-28 21:11:07 +0000"
     },
     "done": true
   },
@@ -7002,6 +7008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-28 22:35:42 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
     "criteria": {
       "recipe_condition": "2025-07-28 15:34:10 +0000"
@@ -7086,6 +7098,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-28 22:35:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
@@ -7107,6 +7125,12 @@
   "ic2:silver_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-28 22:48:17 +0000"
     },
     "done": true
   },
@@ -8850,6 +8874,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 22:35:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-28 20:13:37 +0000"
@@ -9312,15 +9342,15 @@
     },
     "done": true
   },
-  "hexcasting:recipes/hexcasting/pride_colorizer_bisexual": {
-    "criteria": {
-      "has_item": "2025-07-28 21:52:31 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
     "criteria": {
       "has_compass": "2025-07-28 20:46:12 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_bisexual": {
+    "criteria": {
+      "has_item": "2025-07-28 21:52:31 +0000"
     },
     "done": true
   },
@@ -9474,6 +9504,12 @@
       "has_stone_types_deepslate": "2025-07-28 17:15:13 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-28 22:48:17 +0000"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
@@ -9960,15 +9996,15 @@
     },
     "done": true
   },
-  "ftbic:recipes/ftbic/separating/silicon_from_sand": {
-    "criteria": {
-      "has_item": "2025-07-28 21:03:01 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
     "criteria": {
       "has_water_bucket": "2025-07-28 20:19:23 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/separating/silicon_from_sand": {
+    "criteria": {
+      "has_item": "2025-07-28 21:03:01 +0000"
     },
     "done": true
   },
@@ -10062,9 +10098,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+  "croptopia:recipes/scrambled_eggs": {
     "criteria": {
-      "has_any_ingredient": "2025-07-28 22:17:54 +0000"
+      "has_egg": "2025-07-28 21:07:13 +0000"
     },
     "done": true
   },
@@ -10074,9 +10110,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/scrambled_eggs": {
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
     "criteria": {
-      "has_egg": "2025-07-28 21:07:13 +0000"
+      "has_any_ingredient": "2025-07-28 22:17:54 +0000"
     },
     "done": true
   },
@@ -10651,6 +10687,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-28 22:35:44 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/kerosene_lamp": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -10795,15 +10837,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
-    },
-    "done": true
-  },
   "reliquary:recipes/reliquary/glowing_bread": {
     "criteria": {
       "has_glowing_water": "2025-07-28 20:50:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -10903,15 +10945,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-07-28 21:11:07 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/croptopia.croptopia/meringue": {
     "criteria": {
       "has_egg": "2025-07-28 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-07-28 21:11:07 +0000"
     },
     "done": true
   },
@@ -10987,17 +11029,17 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
-    },
-    "done": true
-  },
   "croptopia:gather_all": {
     "criteria": {
       "lettuce_seed": "2025-07-28 18:32:39 +0000"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
   },
   "ic2:composite_leggings_0_recipe_advancement": {
     "criteria": {
@@ -13360,27 +13402,27 @@
     },
     "done": true
   },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2025-07-28 22:04:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-28 21:50:51 +0000"
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
+  "croptopia:recipes/french_fries": {
     "criteria": {
-      "glass": "2025-07-28 21:11:07 +0000"
+      "has_potato": "2025-07-28 22:04:17 +0000"
     },
     "done": true
   },
   "trashcans:recipes/decorations/liquid_trash_can": {
     "criteria": {
       "recipe_condition": "2025-07-28 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2025-07-28 21:11:07 +0000"
     },
     "done": true
   },
@@ -13919,15 +13961,15 @@
     },
     "done": true
   },
-  "ic2:filtered_extraction_tube_recipe_advancement": {
-    "criteria": {
-      "hasItem": "2025-07-28 21:11:07 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2025-07-28 19:33:50 +0000"
+    },
+    "done": true
+  },
+  "ic2:filtered_extraction_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 21:11:07 +0000"
     },
     "done": true
   },

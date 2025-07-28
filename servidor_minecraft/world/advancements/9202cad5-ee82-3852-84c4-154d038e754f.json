@@ -3443,7 +3443,8 @@
       "minecraft:husk": "2025-07-28 17:53:32 +0000",
       "minecraft:stray": "2025-07-28 13:40:13 +0000",
       "minecraft:silverfish": "2025-07-28 17:24:07 +0000",
-      "minecraft:zombie": "2025-07-28 13:14:31 +0000"
+      "minecraft:zombie": "2025-07-28 13:14:31 +0000",
+      "minecraft:drowned": "2025-07-28 18:38:19 +0000"
     },
     "done": false
   },
@@ -8203,6 +8204,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:prairie": "2025-07-28 17:51:04 +0000",
+      "byg:rose_fields": "2025-07-28 18:42:12 +0000",
       "byg:howling_peaks": "2025-07-28 12:34:24 +0000",
       "byg:cardinal_tundra": "2025-07-28 12:48:20 +0000",
       "byg:frosted_taiga": "2025-07-28 14:18:11 +0000"

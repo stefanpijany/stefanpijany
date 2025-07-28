@@ -2574,6 +2574,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 21:46:12 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/air_canister": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
@@ -9392,6 +9398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-28 21:46:12 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_mahogany_planks": {
     "criteria": {
       "has_ingredient": "2025-07-28 11:28:32 +0000"
@@ -12402,6 +12414,12 @@
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-07-28 11:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-28 21:46:12 +0000"
     },
     "done": true
   },

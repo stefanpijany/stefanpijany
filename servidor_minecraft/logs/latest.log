@@ -1614,3 +1614,24 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 21:31:07.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
 [28Jul2025 21:35:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Ka-chink! 1]
 [28Jul2025 21:42:25.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Long Gone]
+[28Jul2025 21:44:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [First Age]
+[28Jul2025 21:48:42.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Hot Stuff]
+[28Jul2025 21:49:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] ha ha ha skurwysyny
+[28Jul2025 21:49:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server zostaliscie zhakowani ha ha ha
+[28Jul2025 21:49:54.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to falsemikolajk: i co kurwiu
+[28Jul2025 21:50:25.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM lost connection: Disconnected
+[28Jul2025 21:50:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM left the game
+[28Jul2025 21:50:51.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Ice Bucket Challenge]
+[28Jul2025 21:51:22.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jul2025 21:51:22.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blablabla<--[HERE]
+[28Jul2025 21:52:30.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Hexcasting Research]
+[28Jul2025 21:54:35.919] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e79380f
+[28Jul2025 21:54:35.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KazuM[/127.99.161.30:43699] logged in with entity id 45437 at (-287.4393245370848, 86.0, 205.60529753315265)
+[28Jul2025 21:54:35.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KazuM
+[28Jul2025 21:54:35.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KazuM
+[28Jul2025 21:54:35.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KazuM
+[28Jul2025 21:54:35.960] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KazuM
+[28Jul2025 21:54:35.962] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KazuM
+[28Jul2025 21:54:35.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KazuM
+[28Jul2025 21:54:35.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
+[28Jul2025 21:54:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game

@@ -1635,3 +1635,291 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 21:54:35.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KazuM
 [28Jul2025 21:54:35.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
 [28Jul2025 21:54:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
+[28Jul2025 21:54:36.333] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
+[28Jul2025 21:56:26.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Crops of the Wild]
+[28Jul2025 21:57:09.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Hidden in the Depths]
+[28Jul2025 21:58:25.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Crimson Iron]
+[28Jul2025 22:00:53.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[28Jul2025 22:00:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[28Jul2025 22:00:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
+[28Jul2025 22:00:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[28Jul2025 22:00:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[28Jul2025 22:00:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
+[28Jul2025 22:00:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[28Jul2025 22:00:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function|ai)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode (survival|creative|adventure|spectator)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode (survival|creative|adventure|spectator)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|tfEnforcedProgression|universalAnger)
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[28Jul2025 22:00:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[28Jul2025 22:00:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[28Jul2025 22:00:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[28Jul2025 22:00:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[28Jul2025 22:00:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[28Jul2025 22:00:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[28Jul2025 22:00:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[28Jul2025 22:00:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[28Jul2025 22:00:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[28Jul2025 22:00:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[28Jul2025 22:00:53.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbultimine
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftblibrary (gamemode|rain|day|night|nbtedit|generate_loot_tables)
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbteams (party|server|msg|info|list|force-disband)
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbranks (reload|refresh_readme|list_all_ranks|create|delete|add|remove|list_ranks_of|list_players_with|node|condition|show_rank)
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /home [<name>]
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sethome [<name>]
+[28Jul2025 22:00:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /delhome [<name>]
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /listhomes [<player>]
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /warp <name>
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setwarp <name>
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /delwarp <name>
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /listwarps
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /back
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawn
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rtp
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport_last <player>
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tpx <dimension>
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tpa <target>
+[28Jul2025 22:00:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tpahere <target>
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tpaccept <id>
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tpdeny <id>
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /heal [<player>]
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fly [<player>]
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /god [<player>]
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /invsee <player>
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /nicknamefor <player> [<nickname>]
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mute <player> [<until>]
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /unmute <player>
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kickme
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trashcan
+[28Jul2025 22:00:53.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enderchest [<player>]
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /leaderboard (deaths|time_played|deaths_per_hour|player_kills|mob_kills|damage_dealt|jumps|distance_walked|time_since_death)
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recording
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /streaming
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /hat
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /nickname [<nickname>]
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /observable [run|allow|deny|set|tp]
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbquests (editing_mode|locked|delete_empty_reward_tables|change_progress|export_reward_table_to_chest|import_reward_table_from_chest|generate_chapter_with_all_items_in_game|reload|block_rewards|open_book)
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kubejs (help|custom_command|hand|offhand|inventory|hotbar|errors|warnings|reload|export|list_tag|dump_registry|stages|painter|packmode|dump_internals|persistent_data)
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kjs -> kubejs
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /chemlibhelper
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /markethelper
+[28Jul2025 22:00:53.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbchunks (claim|unclaim|load|unload|unclaim_all|unload_all|info|admin)
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /chunks -> ftbchunks
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /paucal (getInfo|reload|pat)
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /quarryplus config [<name>]
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modernfix upgradeStructures
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mfsrc
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /open_gateway (<pos>|<entity>)
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /apoth (loot_rarity|loot_category|lootify|modifier|gem|set_sockets|spawn_boss)
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /structure_gel (savestructures|getspawns|getstructures|getbiomes|viewbounds|building_tool|distance)
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /torchmaster [torchdump|entitydump]
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /woodcutter [info|datapack|test]
+[28Jul2025 22:00:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cwc -> woodcutter
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ic2c_energy_grids
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbacceptteleport [<target>]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbbind [show|set|teleport]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbgui
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbknowledge [<player>]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrequestteleport [<target>]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrestoreinventory [<player>]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrevivefamiliar [<player>]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbshowlastgrave [<player>]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbsiege [start|stop]
+[28Jul2025 22:00:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[28Jul2025 22:00:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sfm (bust_cable_network_cache|show_bad_cable_cache_entries)
+[28Jul2025 22:00:53.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /oredistribution [<radius>]
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /dumpregistry
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tryspawntrader <pos>
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /libx (hand|entitydata|reload)
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /compactmachines (eject|summary|rebind|unbind|registerdim|rooms|data|give|spawn|upgrades)
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pncr (dump_nbt|global_var|amadrone_deliver)
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ip reservoir (locate|set|get)
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[28Jul2025 22:00:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cofh (crafting|workbench|enderchest|friend|heal|ignite|invis|invuln|recharge|repair|zap)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sgear_grade set <grade>
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_damage (<amount>|max)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sgear_mats (list|dump)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sgear_parts (list|dump)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sgear_stats (info|lock|recalculate)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sgear_traits (describe|dump_md|list)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sgear_random_gear <players> <item> [<tier>]
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ie (mineral|clearshaders)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sc (dump|connect|help|bug)
+[28Jul2025 22:00:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mek (chunk|debug|retrogen|radiation|testrules)
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /lootr [barrel|trapped_chest|chest|shulker|clear|cart|custom|id|refresh|decay|openers]
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /structurize (scan|paste|pasteFolder|DO)
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /occultism (nbt|debug)
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /corgilib worldRegistryExport [<With comments?>]
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /planetgui [<target>]
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /giselle_addon
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tmdev <item> <module>
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tetra (hone|module|improvement|enchantment)
+[28Jul2025 22:00:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /byg config (reload|update)
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /blue_skies (refresh_supporters|set_progression|weather|set_lore_used|get_mob_caps)
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancedperipherals getHashItem
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /connectivity (packetsSummary|packetsAllPlayers|packetsPlayer|packetsClient)
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /placebo serialize_loot_table <loot_table>
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /hexerei-dynamic-light (on|off)
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /dankstorage (clear|set_tier|lock|unlock|reset_frequency)
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bookshelf (font|hand)
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[28Jul2025 22:00:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /twilightforest (center|conquer|info|biomepng|shield)
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tf -> twilightforest
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tffeature -> twilightforest
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /hostilenetworks (generate_model_json|update_model_json|generate_all)
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /crashutilities (tp|unstuck|memoryCheck|callItemClear|help|chunks|activity|e|entities|entity|blockentity|te|tileentities|tileentity|be|blockentities|i|inventory)
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cu -> crashutilities
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /computercraft [dump|shutdown|turn-on|tp|queue|view|track|help]
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ponderjs generate_lang_template
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /dimtablet (add|remove|removeAll|list)
+[28Jul2025 22:00:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /dimstorage -> dimtablet
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /hexcasting (brainsweep|patterns|recalcPatterns)
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /maxmahou <player> <mana>
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mahoukodoku <player> <kodoku>
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /showmahou
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mahoucancel
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mahouset (souls|morgan|caliburn|clarent|morgancap|caliburncap|rulebreakerd|rulebreakerm|rhongomyniad|rhongomyniadweight)
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mahousummon (treasury|wepproj|smite|rhongomyniad|morganball)
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /addmahou <player> <mana> <overDrainHurts> <damagetype>
+[28Jul2025 22:00:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /refinedstorage (pattern|disk|network)
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /railways (split_train|train_uuid)
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /snr (split_train|train_uuid)
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sl_nbt (block|entity|item)
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sl_tp <entity> <dimension> <pos>
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ae2things [recover|getuuid]
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-reset [<targets>]
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-data dump augment-compatibility-csv
+[28Jul2025 22:00:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-pathing
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-light (on|off)
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-tome <tome>
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-skull <player_name> <duration> <nbt> <dropBlock>
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pigpen (say|hand|book|tile)
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fluxnetworks superadmin <targets> <enable>
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modonomicon (reset|save_progress)
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /supplementaries (globe|reload|configs|roll|cage|record)
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /foodlist (size|sync|clear)
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /minecolonies (home|whereami|whoami|rtp|forceunloadchunks|raid-All|backup|resetsupplies|help|scan|prune-world-now|kill|colony|citizens)
+[28Jul2025 22:00:53.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mc (trackPath|home|whereami|whoami|rtp|forceunloadchunks|raid-All|backup|resetsupplies|help|prune-world-now|kill|colony|citizens)
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cca_api
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /naaura (add|remove|reset)
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /theoneprobe (config|need)
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /top -> theoneprobe
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /polymorph conflicts
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clearcosarmor [<targets>]
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /coshat
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mysticalcustomization (tiers|types)
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cucumber fillenergy (block|hand)
+[28Jul2025 22:00:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rftoolsstorage (list|restore)
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rfstor -> rftoolsstorage
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deepresonance create <special>
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /dr -> deepresonance
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rftoolsutility (setbuffs|cleanupreceivers)
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rfutil -> rftoolsutility
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spc_teams (create|rename|invite|accept|leave|kick|promote|demote|transfer|disband|teams|info)
+[28Jul2025 22:00:53.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spc_teams_sysadmin (create|rename|kick|add|transfer|disband)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg_team <message>
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spark [<args>]
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /integratedterminalscompat (config|version)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /integratedterminals (config|version)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /evilcraftcompat (config|version)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /evilcraft (config|version)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /integratedcrafting (config|version)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /integrateddynamicscompat (config|version)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /integrateddynamics (config|version|crash|networkdiagnostics|test)
+[28Jul2025 22:00:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cyclopscore (config|version|ignite|debug|reloadresources|dumpregistries|infobooktest)
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /commoncapabilities (config|version)
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tiab (addTime|removeTime)
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /integratedtunnels (config|version)
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /integratedtunnelscompat (config|version)
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ae2 (supporters|chunklogger|spatial|channelmode|tickmonitor)
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /titanium-rewards <action> <reward> <option>
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /titanium-rewards-grant <reward>
+[28Jul2025 22:00:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /aea (channelcreate|subscribe|broadcast)
+[28Jul2025 22:01:10.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM lost connection: You logged in from another location
+[28Jul2025 22:01:10.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM left the game
+[28Jul2025 22:01:10.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KazuM[/127.29.82.197:45603] logged in with entity id 46632 at (-221.480207844948, 19.0, 271.3114639452331)
+[28Jul2025 22:01:10.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KazuM
+[28Jul2025 22:01:10.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KazuM
+[28Jul2025 22:01:10.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KazuM
+[28Jul2025 22:01:10.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KazuM
+[28Jul2025 22:01:10.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KazuM
+[28Jul2025 22:01:10.899] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KazuM
+[28Jul2025 22:01:10.899] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
+[28Jul2025 22:01:11.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
+[28Jul2025 22:01:11.167] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
+[28Jul2025 22:01:44.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM lost connection: Disconnected
+[28Jul2025 22:01:44.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM left the game
+[28Jul2025 22:03:26.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3954, y=61, z=-1551} BlockPos{x=-3954, y=59, z=-1550}
+[28Jul2025 22:04:10.520] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59ec4cf8
+[28Jul2025 22:04:10.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KazuM[/127.29.82.197:37045] logged in with entity id 47158 at (-221.480207844948, 19.0, 271.3114639452331)
+[28Jul2025 22:04:10.560] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KazuM
+[28Jul2025 22:04:10.560] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KazuM
+[28Jul2025 22:04:10.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KazuM
+[28Jul2025 22:04:10.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KazuM
+[28Jul2025 22:04:10.562] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KazuM
+[28Jul2025 22:04:10.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KazuM
+[28Jul2025 22:04:10.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
+[28Jul2025 22:04:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
+[28Jul2025 22:04:10.910] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM

@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "ic2:compacting_recycler_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:08:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 15:06:22 +0000"
@@ -2658,6 +2664,12 @@
     },
     "done": true
   },
+  "ic2:jump_boost_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:08:52 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/gold_chain": {
     "criteria": {
       "recipe_condition": "2025-07-28 12:38:51 +0000"
@@ -2985,6 +2997,12 @@
   "ic2:composite_boots_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:42 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/bone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-28 23:06:39 +0000"
     },
     "done": true
   },
@@ -4353,6 +4371,12 @@
     },
     "done": true
   },
+  "ic2:diamond_drill_rock_cutter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:08:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2025-07-28 12:43:04 +0000"
@@ -5280,6 +5304,12 @@
     },
     "done": true
   },
+  "ic2:simple_export_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:08:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-07-28 13:38:46 +0000"
@@ -5643,6 +5673,12 @@
   "ic2:insertion_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-28 23:06:39 +0000"
     },
     "done": true
   },
@@ -6378,6 +6414,12 @@
     },
     "done": true
   },
+  "ic2:insertion_tube_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:08:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/dodge_ring": {
     "criteria": {
       "has_item": "2025-07-28 17:19:15 +0000"
@@ -6933,6 +6975,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 12:40:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/food_press": {
+    "criteria": {
+      "has_piston": "2025-07-28 23:08:52 +0000"
     },
     "done": true
   },
@@ -7843,6 +7891,12 @@
     },
     "done": false
   },
+  "ic2:macerator_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:09:04 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_chest": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -8261,6 +8315,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/thermal_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/energy_tug": {
+    "criteria": {
+      "has_item": "2025-07-28 23:08:52 +0000"
     },
     "done": true
   },
@@ -10416,6 +10476,12 @@
     },
     "done": true
   },
+  "ic2:simple_export_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:08:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_normal": {
     "criteria": {
       "has_item": "2025-07-28 17:19:15 +0000"
@@ -11210,6 +11276,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/transportation/tug": {
+    "criteria": {
+      "has_item": "2025-07-28 23:08:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-28 15:07:10 +0000"
@@ -11915,6 +11987,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/ejector_upgrade": {
+    "criteria": {
+      "has_item": "2025-07-28 23:08:52 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/ores/uranium_to_dust": {
     "criteria": {
       "has_item": "2025-07-28 17:12:48 +0000"
@@ -12387,6 +12465,12 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-07-28 15:50:34 +0000"
+    },
+    "done": true
+  },
+  "ic2:feeder_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 23:08:52 +0000"
     },
     "done": true
   },
@@ -14108,6 +14192,12 @@
   "ic2:energy_storage_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-07-28 23:08:52 +0000"
     },
     "done": true
   },

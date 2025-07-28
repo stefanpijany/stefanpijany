@@ -1607,3 +1607,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 21:22:13.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
 [28Jul2025 21:22:13.316] [Worker-Main-5/WARN] [ModernFix/]: The namespace undergarden contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [28Jul2025 21:22:30.277] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5478, y=10, z=90631}
+[28Jul2025 21:27:39.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved too quickly! -4.872047259764372,-2.9451425821732684,17.135345135207164
+[28Jul2025 21:27:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [A Terrible Fortress]
+[28Jul2025 21:29:21.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has reached the goal [It's Striding Time]
+[28Jul2025 21:30:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Creative Mode]
+[28Jul2025 21:31:07.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]

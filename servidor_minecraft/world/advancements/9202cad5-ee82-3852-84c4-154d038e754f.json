@@ -1319,6 +1319,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-28 15:07:10 +0000"
@@ -3175,6 +3181,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_white": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -3758,6 +3770,12 @@
     },
     "done": true
   },
+  "ic2:raw_silver_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 21:27:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-07-28 20:46:29 +0000"
@@ -3900,6 +3918,12 @@
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2025-07-28 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -4110,6 +4134,12 @@
   "ic2:dynamite_remote_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:49:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-28 21:27:54 +0000"
     },
     "done": true
   },
@@ -4739,6 +4769,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 17:30:24 +0000"
@@ -5049,6 +5085,12 @@
   "ic2:bio_mesh_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:58:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-07-28 21:28:35 +0000"
     },
     "done": true
   },
@@ -5922,6 +5964,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_light_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -6158,6 +6206,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/prismarine_lantern": {
     "criteria": {
       "recipe_condition": "2025-07-28 13:13:20 +0000"
@@ -6176,9 +6230,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-28 21:28:35 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_reinforced": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 12:43:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -6245,6 +6311,12 @@
   "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-07-28 12:34:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -6506,6 +6578,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 12:40:47 +0000"
@@ -6629,6 +6707,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 14:22:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -7103,6 +7187,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-07-28 21:27:54 +0000"
     },
     "done": true
   },
@@ -8677,6 +8767,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 12:40:47 +0000"
@@ -8948,6 +9044,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/hay_block": {
     "criteria": {
       "has_the_recipe": "2025-07-28 17:11:45 +0000"
@@ -9167,6 +9269,12 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-07-28 12:43:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-28 21:28:35 +0000"
     },
     "done": true
   },
@@ -9436,6 +9544,12 @@
   "ic2:rail_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -9806,6 +9920,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_birch": "2025-07-28 21:24:05 +0000"
+    },
+    "done": false
+  },
   "ftbic:recipes/ftbic/macerating/raw_materials/iron_to_dust": {
     "criteria": {
       "has_item": "2025-07-28 12:48:02 +0000"
@@ -10124,6 +10244,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/glowing_bread": {
     "criteria": {
       "has_glowing_water": "2025-07-28 20:50:05 +0000"
@@ -10307,6 +10433,12 @@
   "ic2:overgrowth_fertilizer_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 20:19:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -11770,6 +11902,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/stonecutting/glass_viewer_silicon": {
     "criteria": {
       "has_for_glass_viewer_silicon": "2025-07-28 21:11:07 +0000"
@@ -11827,6 +11965,12 @@
   "rftoolspower:recipes/rftoolspower/power_core1": {
     "criteria": {
       "core": "2025-07-28 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },
@@ -12358,6 +12502,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 12:40:47 +0000"
@@ -12716,6 +12866,12 @@
   "alchemistry:recipes/dissolver/cooked_porkchop": {
     "criteria": {
       "has_the_recipe": "2025-07-28 15:22:27 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-28 21:27:54 +0000"
     },
     "done": true
   },
@@ -13276,6 +13432,12 @@
   "ftbic:recipes/ftbic/shaped/fuse": {
     "criteria": {
       "has_item": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
     },
     "done": true
   },

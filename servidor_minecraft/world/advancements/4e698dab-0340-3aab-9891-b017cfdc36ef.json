@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_duck_egg": "2025-07-28 21:02:10 +0000"
@@ -569,6 +575,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-28 21:23:49 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_yellow_dye": {
     "criteria": {
       "chest": "2025-07-28 13:40:12 +0000"
@@ -824,6 +836,18 @@
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -1337,6 +1361,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-28 21:27:42 +0000",
+      "minecraft:soul_sand_valley": "2025-07-28 21:22:13 +0000"
+    },
+    "done": false
+  },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2025-07-28 16:10:41 +0000"
@@ -1520,6 +1551,12 @@
   "ic2:vent_steam_overclocked_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:36:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -2093,6 +2130,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-28 21:22:13 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-07-28 11:33:13 +0000"
@@ -2495,6 +2538,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/bone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-28 21:22:29 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-07-28 11:28:33 +0000"
@@ -2727,6 +2776,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_green_r": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-28 13:46:18 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:summon_strider": {
+    "criteria": {
+      "summon_strider": "2025-07-28 21:29:21 +0000"
     },
     "done": true
   },
@@ -3871,6 +3926,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_soul_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 21:23:49 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/charging_station": {
     "criteria": {
       "has_pressure_tube": "2025-07-28 14:12:36 +0000"
@@ -4628,6 +4689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-28 21:23:49 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/holy_hand_grenade": {
     "criteria": {
       "has_glowing_water": "2025-07-28 17:22:43 +0000"
@@ -4766,6 +4833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-28 21:22:29 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2025-07-28 11:44:05 +0000"
@@ -4844,6 +4917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2025-07-28 11:36:00 +0000"
@@ -4889,6 +4968,12 @@
   "silentgear:recipes/silentgear/upgrade_base": {
     "criteria": {
       "has_item": "2025-07-28 11:28:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -4994,6 +5079,12 @@
     },
     "done": true
   },
+  "ae2:recipes/combat/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_leggings": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
@@ -5021,6 +5112,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_3": {
     "criteria": {
       "has_birch_plank": "2025-07-28 12:08:21 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/separating/silicon_from_quartz": {
+    "criteria": {
+      "has_item": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -5111,6 +5208,12 @@
   "hexcasting:recipes/hexcasting/jeweler_hammer": {
     "criteria": {
       "has_item": "2025-07-28 21:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -5475,6 +5578,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/quartz_red": {
+    "criteria": {
+      "has_item": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-28 13:48:49 +0000"
@@ -5805,6 +5914,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/granite": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2025-07-28 11:58:51 +0000"
@@ -5922,6 +6037,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 11:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -6045,6 +6166,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-07-28 11:28:32 +0000"
@@ -6084,6 +6211,18 @@
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2025-07-28 11:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -6270,6 +6409,12 @@
   "reliquary:recipes/reliquary/alkahestry_altar": {
     "criteria": {
       "has_nebulous_heart": "2025-07-28 16:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -6614,6 +6759,12 @@
       "pickaxe": "2025-07-28 15:27:03 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
   },
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
@@ -7360,6 +7511,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "ic2:inventory_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:40:12 +0000"
@@ -7882,6 +8039,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-28 11:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-28 21:22:13 +0000"
     },
     "done": true
   },
@@ -9016,6 +9179,7 @@
       "byg:autumnal_forest": "2025-07-28 17:54:36 +0000",
       "byg:rose_fields": "2025-07-28 18:40:48 +0000",
       "byg:white_mangrove_marshes": "2025-07-28 18:37:19 +0000",
+      "byg:magma_wastes": "2025-07-28 21:24:16 +0000",
       "byg:autumnal_valley": "2025-07-28 11:40:49 +0000",
       "byg:howling_peaks": "2025-07-28 11:24:25 +0000",
       "byg:aspen_forest": "2025-07-28 18:34:46 +0000",
@@ -9902,6 +10066,12 @@
     },
     "done": true
   },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-07-28 21:22:13 +0000"
+    },
+    "done": true
+  },
   "compactmachines:recipes/compactmachines/wall": {
     "criteria": {
       "picked_up_deepslate": "2025-07-28 17:30:25 +0000"
@@ -10105,6 +10275,12 @@
   "ic2:stone_macerator_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 14:42:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -10369,6 +10545,12 @@
   "ic2:honey_cake_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -10704,6 +10886,12 @@
     },
     "done": true
   },
+  "ae2:recipes/redstone/misc/vanilla_comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2025-07-28 11:58:51 +0000"
@@ -10998,9 +11186,21 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/orange_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-07-28 17:33:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },
@@ -11879,6 +12079,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-28 21:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 11:33:56 +0000"
@@ -12017,6 +12223,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-07-28 21:24:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-07-28 11:44:17 +0000"
@@ -12146,6 +12358,12 @@
   "ic2:lv_loader_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:06:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/redstone/misc/vanilla_daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-28 21:24:24 +0000"
     },
     "done": true
   },

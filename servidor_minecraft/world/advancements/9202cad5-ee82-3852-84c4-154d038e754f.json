@@ -3224,6 +3224,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2025-07-28 18:59:41 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
@@ -4736,6 +4742,12 @@
   "corail_woodcutter:recipes/from_byg_willow_planks": {
     "criteria": {
       "has_ingredient": "2025-07-28 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 18:59:07 +0000"
     },
     "done": true
   },
@@ -8260,6 +8272,7 @@
       "byg:prairie": "2025-07-28 17:51:04 +0000",
       "byg:rose_fields": "2025-07-28 18:42:12 +0000",
       "byg:howling_peaks": "2025-07-28 12:34:24 +0000",
+      "byg:aspen_forest": "2025-07-28 18:58:18 +0000",
       "byg:cardinal_tundra": "2025-07-28 12:48:20 +0000",
       "byg:frosted_taiga": "2025-07-28 14:18:11 +0000"
     },
@@ -9604,6 +9617,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 12:43:04 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 18:59:07 +0000"
     },
     "done": true
   },

@@ -1924,3 +1924,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 22:04:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
 [28Jul2025 22:04:10.910] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
 [28Jul2025 22:13:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Crimson Iron]
+[28Jul2025 22:16:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: The difficulty has been set to Easy]
+[28Jul2025 22:16:33.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM fell from a high place
+[28Jul2025 22:16:33.924] [Server thread/INFO] [tombstone/]: The player KazuM has successfully been saved
+[28Jul2025 22:16:35.191] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 22:18:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Creative Mode]
+[28Jul2025 22:19:25.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[28Jul2025 22:20:08.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Creative Mode]
+[28Jul2025 22:20:21.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
+[28Jul2025 22:21:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Into Fire]
+[28Jul2025 22:22:57.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind

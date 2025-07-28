@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/raw_crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-07-28 22:13:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_chair": {
     "criteria": {
       "has_log": "2025-07-28 12:38:19 +0000"
@@ -1142,6 +1148,12 @@
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-28 15:07:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_raw_ore_smelting": {
+    "criteria": {
+      "has_item": "2025-07-28 22:13:21 +0000"
     },
     "done": true
   },
@@ -1646,6 +1658,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-28 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 22:17:54 +0000"
     },
     "done": true
   },
@@ -2277,6 +2295,12 @@
   "alltheores:recipes/alltheores/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-28 15:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 22:17:54 +0000"
     },
     "done": true
   },
@@ -3292,6 +3316,12 @@
   "ic2:comparing_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_raw_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-07-28 22:13:21 +0000"
     },
     "done": true
   },
@@ -6030,6 +6060,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/raw_crimson_iron_from_block": {
+    "criteria": {
+      "has_item": "2025-07-28 22:13:21 +0000"
+    },
+    "done": true
+  },
   "ic2:electric_blast_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:42 +0000"
@@ -8228,6 +8264,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 22:17:54 +0000"
+    },
+    "done": true
+  },
   "ic2:terraformer_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:32:20 +0000"
@@ -8398,9 +8440,10 @@
   },
   "silentgear:crimson_iron": {
     "criteria": {
+      "get_ore": "2025-07-28 22:13:21 +0000",
       "get_ingot": "2025-07-28 20:19:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
@@ -9176,6 +9219,12 @@
   "littlelogistics:recipes/transportation/vessel_charger": {
     "criteria": {
       "has_item": "2025-07-28 12:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-28 22:17:54 +0000"
     },
     "done": true
   },
@@ -10010,6 +10059,12 @@
   "create:recipes/create.palettes/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 22:17:54 +0000"
     },
     "done": true
   },

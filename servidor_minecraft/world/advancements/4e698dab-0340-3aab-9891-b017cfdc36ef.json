@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "ic2:pixelfoam_space_bean_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 22:20:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-07-28 17:23:44 +0000"
@@ -1085,6 +1091,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-07-28 22:21:31 +0000"
+    },
+    "done": true
+  },
   "naturesaura:positive_imbalance": {
     "criteria": {
       "triggered_in_code": "2025-07-28 14:49:06 +0000"
@@ -1770,6 +1782,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-28 22:12:35 +0000"
+    },
+    "done": true
+  },
   "entangled:recipes/decorations/block": {
     "criteria": {
       "recipe_condition": "2025-07-28 14:05:57 +0000"
@@ -2430,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-28 22:12:35 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-07-28 11:58:51 +0000"
@@ -2860,6 +2884,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-07-28 11:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-28 22:21:31 +0000"
     },
     "done": true
   },
@@ -3856,6 +3886,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/decorations/uncrafting/wither_skeleton_skull": {
+    "criteria": {
+      "has_withered_rib": "2025-07-28 22:20:02 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_lv": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 11:58:51 +0000"
@@ -3960,10 +3996,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-28 22:18:21 +0000",
       "minecraft:skeleton": "2025-07-28 11:47:59 +0000",
       "minecraft:vindicator": "2025-07-28 11:55:34 +0000",
       "minecraft:spider": "2025-07-28 11:48:20 +0000",
       "minecraft:creeper": "2025-07-28 13:51:07 +0000",
+      "minecraft:zombified_piglin": "2025-07-28 22:20:06 +0000",
       "minecraft:witch": "2025-07-28 17:21:46 +0000",
       "minecraft:wither_skeleton": "2025-07-28 11:51:19 +0000",
       "minecraft:cave_spider": "2025-07-28 15:51:58 +0000",
@@ -4283,6 +4321,12 @@
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 12:08:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/blaze_block": {
+    "criteria": {
+      "has_item": "2025-07-28 22:21:31 +0000"
     },
     "done": true
   },
@@ -4665,6 +4709,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-07-28 22:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-07-28 22:09:47 +0000"
@@ -4692,6 +4742,12 @@
   "bambooeverything:recipes/bamboo_slab": {
     "criteria": {
       "has_bundle": "2025-07-28 11:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-28 22:12:06 +0000"
     },
     "done": true
   },
@@ -6880,6 +6936,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-07-28 22:12:35 +0000"
+    },
+    "done": true
+  },
   "charginggadgets:recipes/charginggadgets/charging_station": {
     "criteria": {
       "has_diamonds": "2025-07-28 12:06:42 +0000"
@@ -6961,6 +7023,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/planks": {
     "criteria": {
       "has_item": "2025-07-28 11:28:33 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:12:35 +0000"
     },
     "done": true
   },
@@ -8238,6 +8306,12 @@
   "reliquary:recipes/reliquary/mob_charm_fragments/skeleton": {
     "criteria": {
       "has_rib_bone": "2025-07-28 12:06:14 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:12:06 +0000"
     },
     "done": true
   },
@@ -9603,6 +9677,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:21:31 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-07-28 11:28:32 +0000"
@@ -10129,6 +10209,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_light": {
     "criteria": {
       "has_magma_block": "2025-07-28 21:56:27 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/wither_skeleton": {
+    "criteria": {
+      "has_withered_rib": "2025-07-28 22:20:02 +0000"
     },
     "done": true
   },
@@ -10711,6 +10797,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mercy_cross": {
+    "criteria": {
+      "has_withered_rib": "2025-07-28 22:20:02 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-07-28 15:37:35 +0000"
@@ -10798,6 +10890,12 @@
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2025-07-28 11:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-28 22:21:31 +0000"
     },
     "done": true
   },
@@ -11026,6 +11124,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_light": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 15:56:41 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/brewing/macerating/blaze_powder": {
+    "criteria": {
+      "has_item": "2025-07-28 22:21:31 +0000"
     },
     "done": true
   },
@@ -11454,6 +11558,12 @@
   "cfm:recipes/cfm/red_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 12:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-28 22:12:35 +0000"
     },
     "done": true
   },
@@ -12895,6 +13005,12 @@
       "has_wit": "2025-07-28 11:28:33 +0000",
       "has_wpt": "2025-07-28 11:28:32 +0000",
       "has_wct": "2025-07-28 11:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-28 22:21:31 +0000"
     },
     "done": true
   },

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dd50dda026344aec860185f4cc8529f2"
+	name: "KOXY"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

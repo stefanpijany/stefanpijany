@@ -1923,3 +1923,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 22:04:10.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
 [28Jul2025 22:04:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
 [28Jul2025 22:04:10.910] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
+[28Jul2025 22:13:21.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Crimson Iron]

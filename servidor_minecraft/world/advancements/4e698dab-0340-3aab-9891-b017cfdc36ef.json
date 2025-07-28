@@ -41,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-28 11:36:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-07-28 22:08:59 +0000"
     },
     "done": true
   },
@@ -452,6 +464,12 @@
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_pork": "2025-07-28 14:47:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -1698,6 +1716,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-07-28 12:06:42 +0000"
@@ -2256,6 +2280,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_trophy": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-07-28 11:33:56 +0000"
@@ -2331,6 +2361,12 @@
   "silentgear:recipes/silentgear/diamond_shard": {
     "criteria": {
       "has_item": "2025-07-28 12:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -2463,6 +2499,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-28 17:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -3724,6 +3766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_blinds": {
     "criteria": {
       "has_log": "2025-07-28 11:44:17 +0000"
@@ -3998,6 +4046,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/brick": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 11:58:51 +0000"
@@ -4073,6 +4127,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_dark": {
     "criteria": {
       "has_magma_block": "2025-07-28 21:56:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-07-28 22:08:59 +0000"
     },
     "done": true
   },
@@ -4199,6 +4259,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-28 11:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-28 22:08:59 +0000"
     },
     "done": true
   },
@@ -4382,6 +4448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 17:30:24 +0000"
@@ -4520,6 +4592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
       "criterion0": "2025-07-28 11:58:51 +0000"
@@ -4584,6 +4662,12 @@
   "minecraft:recipes/woodcutting/birch/chest_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 14:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -4920,6 +5004,12 @@
   "alchemistry:recipes/dissolver/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-07-28 17:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -5752,6 +5842,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
+    "criteria": {
+      "has_item0": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-07-28 11:58:51 +0000"
@@ -6376,6 +6472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2025-07-28 11:28:32 +0000"
@@ -6748,6 +6850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "ic2:teleport_valve_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 14:05:57 +0000"
@@ -7073,6 +7181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "ic2:itnt_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 15:04:13 +0000"
@@ -7388,6 +7502,12 @@
   "corail_woodcutter:recipes/from_sorting_planks": {
     "criteria": {
       "has_ingredient": "2025-07-28 11:28:33 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -8043,6 +8163,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 12:08:26 +0000"
@@ -8205,6 +8331,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/stone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/lime_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-07-28 17:33:05 +0000"
@@ -8226,6 +8358,12 @@
   "botania:recipes/botania/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-07-28 15:37:35 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -8280,6 +8418,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-28 21:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -8515,6 +8659,12 @@
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-07-28 11:28:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_trophy": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -8776,6 +8926,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_trophy": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2025-07-28 11:58:51 +0000"
@@ -8857,6 +9013,12 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/building_blocks/stone_wall": {
+    "criteria": {
+      "criterion0": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -9399,6 +9561,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_trophy": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 12:08:26 +0000"
@@ -9867,6 +10035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-28 11:44:06 +0000"
@@ -10012,6 +10186,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "ic2:lv_transformer_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:06:10 +0000"
@@ -10136,6 +10316,12 @@
     "criteria": {
       "has_bamboo": "2025-07-28 11:28:32 +0000",
       "has_bundle": "2025-07-28 11:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-28 22:08:59 +0000"
     },
     "done": true
   },
@@ -11373,6 +11559,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_trophy": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-07-28 12:08:20 +0000"
@@ -11977,6 +12169,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/clay": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:08:59 +0000"
+    },
+    "done": true
+  },
   "ic2:wet_cfoam_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:26:37 +0000"
@@ -12266,6 +12464,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/stone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:09:47 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-07-28 15:56:41 +0000"
@@ -12353,6 +12557,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_trophy": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },
@@ -12937,6 +13147,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-28 13:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-28 22:09:47 +0000"
     },
     "done": true
   },

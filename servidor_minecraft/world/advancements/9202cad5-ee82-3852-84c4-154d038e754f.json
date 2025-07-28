@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-28 22:04:17 +0000"
+    },
+    "done": true
+  },
   "ic2:extinguish_module_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 20:19:23 +0000"
@@ -794,6 +800,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-28 22:04:17 +0000"
     },
     "done": true
   },
@@ -1746,6 +1758,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_roasted_radishes": {
+    "criteria": {
+      "has_radish": "2025-07-28 22:08:10 +0000"
+    },
+    "done": true
+  },
   "ic2:vent_heat_adv_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:36:14 +0000"
@@ -2442,6 +2460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-28 22:04:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2025-07-28 13:14:45 +0000"
@@ -2655,6 +2679,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/air_compressor": {
     "criteria": {
       "has_pressure_tube": "2025-07-28 20:50:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-28 22:04:17 +0000"
     },
     "done": true
   },
@@ -5051,6 +5081,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/strawberry_smoothie": {
+    "criteria": {
+      "has_strawberry": "2025-07-28 22:08:27 +0000"
+    },
+    "done": true
+  },
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
       "criterion0": "2025-07-28 12:43:04 +0000"
@@ -5097,6 +5133,12 @@
     "criteria": {
       "has_book": "2025-07-28 12:36:38 +0000",
       "has_carrot": "2025-07-28 12:36:38 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:04:17 +0000"
     },
     "done": true
   },
@@ -5874,6 +5916,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-07-28 22:04:08 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2025-07-28 12:36:39 +0000"
@@ -6381,7 +6429,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-07-28 22:07:01 +0000",
+      "tomato": "2025-07-28 22:06:57 +0000",
+      "beetroot": "2025-07-28 22:06:52 +0000",
       "sugar_cane": "2025-07-28 20:39:46 +0000",
+      "potato": "2025-07-28 22:06:54 +0000",
       "wheat": "2025-07-28 20:26:18 +0000"
     },
     "done": false
@@ -9566,6 +9618,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-07-28 22:08:30 +0000"
+    },
+    "done": true
+  },
   "ic2:wooden_scaffold_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
@@ -9587,6 +9645,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-28 17:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-28 22:04:17 +0000"
     },
     "done": true
   },
@@ -9802,6 +9866,12 @@
   "ic2:su_battery_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/strawberry_ice_cream": {
+    "criteria": {
+      "has_strawberry": "2025-07-28 22:08:27 +0000"
     },
     "done": true
   },
@@ -10910,6 +10980,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_trifle": {
+    "criteria": {
+      "has_strawberry": "2025-07-28 22:08:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-07-28 17:36:31 +0000"
@@ -11631,6 +11707,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
     "criteria": {
       "has_book": "2025-07-28 13:49:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/strawberry_jam": {
+    "criteria": {
+      "has_strawberry": "2025-07-28 22:08:27 +0000"
     },
     "done": true
   },
@@ -12892,6 +12974,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/yoghurt": {
+    "criteria": {
+      "has_strawberry": "2025-07-28 22:08:27 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_brown": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -13207,6 +13295,12 @@
   "rootsclassic:recipes/rootsclassic/altar": {
     "criteria": {
       "has_gold_block": "2025-07-28 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-28 22:04:17 +0000"
     },
     "done": true
   },

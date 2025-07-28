@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "ic2:raw_uranium_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 21:36:56 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-07-28 12:40:47 +0000"
@@ -1070,6 +1076,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-28 17:46:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/uranium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-28 21:36:56 +0000"
     },
     "done": true
   },
@@ -1953,6 +1965,12 @@
   "simplemagnets:recipes/simplemagnets/basicmagnet": {
     "criteria": {
       "recipe_condition": "2025-07-28 12:43:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/uranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-28 21:36:56 +0000"
     },
     "done": true
   },
@@ -3343,6 +3361,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/raw_materials/uranium_to_dust": {
+    "criteria": {
+      "has_item": "2025-07-28 21:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-28 12:43:04 +0000"
@@ -4197,6 +4221,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_uranium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-07-28 21:36:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-07-28 12:39:34 +0000"
@@ -4694,6 +4724,12 @@
   "alltheores:recipes/alltheores/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-07-28 15:35:46 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/smelting/raw_materials/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2025-07-28 21:36:56 +0000"
     },
     "done": true
   },
@@ -9547,6 +9583,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/blasting/raw_materials/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2025-07-28 21:36:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-28 21:25:32 +0000"
@@ -12175,6 +12217,12 @@
   "ic2:void_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 21:11:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_osmium_from_block": {
+    "criteria": {
+      "has_item": "2025-07-28 21:39:29 +0000"
     },
     "done": true
   },

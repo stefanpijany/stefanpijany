@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-07-28 20:04:08 +0000"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/barge": {
     "criteria": {
       "has_item": "2025-07-28 19:33:50 +0000"

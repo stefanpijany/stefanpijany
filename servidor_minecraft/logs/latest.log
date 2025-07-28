@@ -1459,3 +1459,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 22:51:45.710] [Server thread/INFO] [tombstone/]: The player KazuM has successfully been saved
 [28Jul2025 22:51:47.036] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [28Jul2025 22:51:59.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has reached the goal [Here They Come]
+[28Jul2025 22:54:37.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Local Brewery]
+[28Jul2025 22:54:47.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: The difficulty has been set to Peaceful]
+[28Jul2025 22:55:03.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved wrongly!

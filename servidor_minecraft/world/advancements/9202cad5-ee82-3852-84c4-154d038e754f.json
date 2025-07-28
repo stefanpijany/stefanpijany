@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-28 22:51:25 +0000"
+    },
+    "done": true
+  },
   "ic2:tesla_coil_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:42 +0000"
@@ -1728,6 +1734,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-28 22:51:25 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_blue_dye": {
     "criteria": {
       "chest": "2025-07-28 19:33:50 +0000"
@@ -2313,6 +2325,12 @@
   "ftbic:recipes/ftbic/macerating/raw_materials/aluminum_to_dust": {
     "criteria": {
       "has_item": "2025-07-28 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-28 22:51:25 +0000"
     },
     "done": true
   },
@@ -14452,6 +14470,12 @@
   "croptopia:recipes/shaped_peanut_butter": {
     "criteria": {
       "has_peanuts": "2025-07-28 20:56:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-28 22:51:25 +0000"
     },
     "done": true
   },

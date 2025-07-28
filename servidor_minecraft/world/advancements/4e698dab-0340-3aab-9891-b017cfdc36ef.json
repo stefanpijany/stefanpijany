@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-28 22:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-28 12:06:42 +0000"
@@ -1277,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-28 22:52:59 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/log": {
     "criteria": {
       "has_item": "2025-07-28 11:36:00 +0000"
@@ -1304,6 +1316,12 @@
   "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-28 15:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-28 22:54:37 +0000"
     },
     "done": true
   },
@@ -1388,6 +1406,12 @@
   "hexcasting:recipes/hexcasting/scroll_paper": {
     "criteria": {
       "has_item": "2025-07-28 21:10:06 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/blasting/raw_materials/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-07-28 22:57:08 +0000"
     },
     "done": true
   },
@@ -1870,6 +1894,12 @@
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-28 22:53:36 +0000"
     },
     "done": true
   },
@@ -2629,6 +2659,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/fire_shard": {
+    "criteria": {
+      "has_powerful_fire_shard": "2025-07-28 22:51:27 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2025-07-28 11:28:32 +0000"
@@ -3052,6 +3088,12 @@
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:26:37 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/raw_materials/lead_to_dust": {
+    "criteria": {
+      "has_item": "2025-07-28 22:57:08 +0000"
     },
     "done": true
   },
@@ -3874,6 +3916,12 @@
     },
     "done": true
   },
+  "ic2:raw_silver_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 22:57:01 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/shard_torch": {
     "criteria": {
       "has_stick": "2025-07-28 11:44:06 +0000"
@@ -4022,6 +4070,12 @@
   "cfm:recipes/cfm/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-28 17:23:06 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/alchemistry/reactor_casing": {
+    "criteria": {
+      "has_item": "2025-07-28 22:52:59 +0000"
     },
     "done": true
   },
@@ -4214,6 +4268,12 @@
   "ic2:quarry_scanner_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:26:37 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-07-28 22:57:01 +0000"
     },
     "done": true
   },
@@ -4853,6 +4913,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-28 22:57:08 +0000"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2025-07-28 11:43:56 +0000"
@@ -5250,6 +5316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-28 22:52:59 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/campfire_cooking/rubber": {
     "criteria": {
       "has_item": "2025-07-28 15:05:03 +0000"
@@ -5343,6 +5415,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
       "ingot": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:fertilizer_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 22:53:36 +0000"
     },
     "done": true
   },
@@ -5508,9 +5586,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-07-28 22:57:08 +0000"
+    },
+    "done": true
+  },
   "ic2:heat_spreader_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:39:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-28 22:51:59 +0000"
     },
     "done": true
   },
@@ -6382,6 +6472,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-07-28 14:53:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spark": {
+    "criteria": {
+      "has_item": "2025-07-28 22:52:59 +0000"
     },
     "done": true
   },
@@ -7525,6 +7621,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-07-28 22:57:01 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/swift_alloy_block_from_swift_alloy_ingot": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-07-28 14:53:51 +0000"
@@ -8433,6 +8535,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-28 22:53:36 +0000"
+    },
+    "done": true
+  },
   "ic2:inventory_card_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:40:12 +0000"
@@ -8581,6 +8689,12 @@
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_fire_shard": {
+    "criteria": {
+      "has_powerful_fire_shard": "2025-07-28 22:51:27 +0000"
     },
     "done": true
   },
@@ -9087,6 +9201,12 @@
   "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-07-28 13:20:04 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-07-28 22:52:59 +0000"
     },
     "done": true
   },
@@ -9936,6 +10056,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smelting/raw_materials/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-07-28 22:57:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-07-28 11:33:56 +0000"
@@ -10419,6 +10545,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-28 22:26:23 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/bone_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 22:53:36 +0000"
     },
     "done": true
   },
@@ -11407,6 +11539,12 @@
   "croptopia:recipes/croptopia.croptopia/frying_pan": {
     "criteria": {
       "has_iron": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-28 22:52:59 +0000"
     },
     "done": true
   },
@@ -13295,6 +13433,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-07-28 22:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-28 11:32:44 +0000"
@@ -14206,6 +14350,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2025-07-28 14:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-28 22:53:36 +0000"
     },
     "done": true
   },

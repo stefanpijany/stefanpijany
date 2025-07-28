@@ -1582,3 +1582,28 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 21:03:05.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3613, y=61, z=-1259} BlockPos{x=-3613, y=58, z=-1259}
 [28Jul2025 21:03:05.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3613, y=61, z=-1259} BlockPos{x=-3613, y=58, z=-1259}
 [28Jul2025 21:03:05.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3613, y=61, z=-1259} BlockPos{x=-3613, y=58, z=-1259}
+[28Jul2025 21:07:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has completed the challenge [Berrily Alive]
+[28Jul2025 21:10:06.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Hexcasting Research]
+[28Jul2025 21:18:23.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM moved wrongly!
+[28Jul2025 21:18:23.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM was doomed to fall
+[28Jul2025 21:18:23.802] [Server thread/INFO] [tombstone/]: The player KazuM has successfully been saved
+[28Jul2025 21:18:26.750] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Jul2025 21:19:36.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM was kicked for floating too long!
+[28Jul2025 21:19:36.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KazuM lost connection: Flying is not enabled on this server
+[28Jul2025 21:19:36.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM left the game
+[28Jul2025 21:19:36.902] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 21:19:56.779] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d92d5c9
+[28Jul2025 21:19:56.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KazuM[/127.99.161.30:56535] logged in with entity id 39776 at (-3641.6650344160216, 116.2854923893186, -1282.382184513851)
+[28Jul2025 21:19:56.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KazuM
+[28Jul2025 21:19:56.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KazuM
+[28Jul2025 21:19:56.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KazuM
+[28Jul2025 21:19:56.829] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KazuM
+[28Jul2025 21:19:56.830] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KazuM
+[28Jul2025 21:19:56.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KazuM
+[28Jul2025 21:19:56.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KazuM
+[28Jul2025 21:19:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM joined the game
+[28Jul2025 21:19:57.079] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KazuM
+[28Jul2025 21:22:13.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [We Need to Go Deeper]
+[28Jul2025 21:22:13.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[28Jul2025 21:22:13.316] [Worker-Main-5/WARN] [ModernFix/]: The namespace undergarden contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[28Jul2025 21:22:30.277] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5478, y=10, z=90631}

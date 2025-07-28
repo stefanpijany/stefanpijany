@@ -1544,3 +1544,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 19:17:52.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3724, y=131, z=-1317} BlockPos{x=-3723, y=131, z=-1317}
 [28Jul2025 19:17:52.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3724, y=131, z=-1317} BlockPos{x=-3723, y=131, z=-1317}
 [28Jul2025 19:19:26.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]
+[28Jul2025 19:24:35.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]
+[28Jul2025 19:27:28.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the time to 0]
+[28Jul2025 19:29:42.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]

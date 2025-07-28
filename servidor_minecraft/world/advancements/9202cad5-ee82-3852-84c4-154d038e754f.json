@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_door": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
   "ic2:ev_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
@@ -2213,6 +2219,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/iron_furnace": {
     "criteria": {
       "has_item": "2025-07-28 12:43:04 +0000"
@@ -3850,6 +3862,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/atomizer": {
     "criteria": {
       "has_item": "2025-07-28 12:43:04 +0000"
@@ -5154,6 +5172,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/raw_materials/tin_to_ingot": {
     "criteria": {
       "has_item": "2025-07-28 13:09:16 +0000"
@@ -5568,6 +5592,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_blue_enchanted_planks": {
     "criteria": {
       "has_ingredient": "2025-07-28 12:36:39 +0000"
@@ -5835,6 +5865,12 @@
   "ic2:lv_unloader_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
     },
     "done": true
   },
@@ -7271,6 +7307,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_sign": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 17:30:24 +0000"
@@ -7364,6 +7406,12 @@
   "elementalcraft:pickup/rune": {
     "criteria": {
       "has_rune": "2025-07-28 17:46:19 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
     },
     "done": true
   },
@@ -8716,6 +8764,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/aspen_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-07-28 12:51:32 +0000"
@@ -9123,6 +9177,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-28 12:38:19 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_slab": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
     },
     "done": true
   },
@@ -9962,6 +10022,12 @@
   "ic2:tin_sign_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_fence": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
     },
     "done": true
   },
@@ -11291,6 +11357,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-07-28 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_boat": {
+    "criteria": {
+      "has_planks": "2025-07-28 19:21:20 +0000"
     },
     "done": true
   },

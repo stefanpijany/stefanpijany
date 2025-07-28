@@ -1558,3 +1558,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 20:04:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falsemikolajk has made the advancement [Neighborhood Brawl]
 [28Jul2025 20:06:51.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]
 [28Jul2025 20:12:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]
+[28Jul2025 20:15:38.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3716, y=132, z=-1310} BlockPos{x=-3716, y=130, z=-1312}
+[28Jul2025 20:16:31.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3710, y=132, z=-1300} BlockPos{x=-3710, y=130, z=-1299}
+[28Jul2025 20:17:07.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]

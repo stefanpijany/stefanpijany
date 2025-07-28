@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/sushi": {
+    "criteria": {
+      "has_rice": "2025-07-28 20:54:55 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/normal_nether_bricks_chain": {
     "criteria": {
       "recipe_condition": "2025-07-28 15:56:36 +0000"
@@ -5911,6 +5917,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_rice": "2025-07-28 20:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 17:30:24 +0000"
@@ -10589,6 +10601,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_rice": "2025-07-28 20:54:55 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/compressing/industrial_grade_metal": {
     "criteria": {
       "has_item": "2025-07-28 12:43:04 +0000"
@@ -12669,6 +12687,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-07-28 12:43:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_peanuts": "2025-07-28 20:56:28 +0000"
     },
     "done": true
   },

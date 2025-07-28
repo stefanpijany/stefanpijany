@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2025-07-28 18:55:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
@@ -1100,6 +1106,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/elderberry_jam": {
+    "criteria": {
+      "has_elderberry": "2025-07-28 18:55:13 +0000"
     },
     "done": true
   },
@@ -2441,6 +2453,12 @@
     },
     "done": true
   },
+  "ic2:rubber_sapling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 18:55:00 +0000"
+    },
+    "done": true
+  },
   "ic2:circuit_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:42 +0000"
@@ -3592,6 +3610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 18:55:35 +0000"
+    },
+    "done": true
+  },
   "modonomicon:modonomicon/root": {
     "criteria": {
       "modonomicon_present": "2025-07-28 12:34:24 +0000"
@@ -4577,6 +4601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 18:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-28 12:38:51 +0000"
@@ -5018,6 +5048,12 @@
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-07-28 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 18:55:35 +0000"
     },
     "done": true
   },
@@ -7037,6 +7073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 18:55:35 +0000"
+    },
+    "done": true
+  },
   "ic2:chocolate_cake_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:11:45 +0000"
@@ -7818,6 +7860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 18:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-28 15:35:46 +0000"
@@ -8126,6 +8174,12 @@
   "ic2:vent_steam_adv_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:36:14 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/runic_tablet": {
+    "criteria": {
+      "has_old_root": "2025-07-28 18:53:23 +0000"
     },
     "done": true
   },
@@ -9667,6 +9721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 18:55:35 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_nugget": {
     "criteria": {
       "has_item": "2025-07-28 15:28:58 +0000"
@@ -9793,6 +9853,7 @@
       "minecraft:snowy_slopes": "2025-07-28 12:35:35 +0000",
       "minecraft:taiga": "2025-07-28 18:04:58 +0000",
       "minecraft:frozen_river": "2025-07-28 18:04:35 +0000",
+      "minecraft:birch_forest": "2025-07-28 18:54:35 +0000",
       "minecraft:beach": "2025-07-28 18:06:37 +0000",
       "minecraft:river": "2025-07-28 18:09:23 +0000",
       "minecraft:snowy_plains": "2025-07-28 12:37:07 +0000",

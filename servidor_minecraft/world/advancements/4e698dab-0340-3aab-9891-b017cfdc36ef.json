@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 17:30:25 +0000"
@@ -1163,6 +1169,12 @@
     },
     "done": true
   },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-07-28 18:48:28 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
@@ -1214,6 +1226,12 @@
   "alchemistry:recipes/dissolver/cracked_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2025-07-28 15:56:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -4153,6 +4171,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2025-07-28 18:50:21 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_axe_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:14:38 +0000"
@@ -4502,6 +4526,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/extruding/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2025-07-28 11:58:51 +0000"
@@ -4541,6 +4571,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-28 11:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -4865,6 +4901,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-28 14:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -5250,6 +5292,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
       "has_the_recipe": "2025-07-28 11:24:23 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/lamp_pole": {
+    "criteria": {
+      "has_aluminum": "2025-07-28 18:50:21 +0000"
     },
     "done": true
   },
@@ -5796,6 +5844,12 @@
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-07-28 11:44:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -7024,6 +7078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-28 18:48:01 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/gold_block": {
     "criteria": {
       "has_the_recipe": "2025-07-28 11:31:12 +0000"
@@ -7366,6 +7426,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_interface": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 11:31:14 +0000"
+    },
+    "done": true
+  },
+  "ic2:chocolate_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -7886,6 +7952,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/hay_block": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 18:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-28 11:36:00 +0000"
@@ -8063,6 +8135,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-07-28 13:08:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -8987,6 +9065,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-28 18:51:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-28 11:31:12 +0000"
@@ -9537,6 +9621,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2025-07-28 18:50:21 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-07-28 11:59:11 +0000"
@@ -9852,6 +9942,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-28 17:33:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:honey_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -10355,6 +10451,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-07-28 18:51:34 +0000"
+    },
+    "done": true
+  },
   "ic2:storage_expansion_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:40:12 +0000"
@@ -10418,6 +10520,12 @@
   "cfm:recipes/cfm/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-28 11:28:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:coffee_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },
@@ -10671,6 +10779,12 @@
     },
     "done": true
   },
+  "ic2:lemon_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 18:51:34 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-07-28 11:24:23 +0000"
@@ -10722,6 +10836,12 @@
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
       "has_the_recipe": "2025-07-28 11:24:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-07-28 18:51:34 +0000"
     },
     "done": true
   },

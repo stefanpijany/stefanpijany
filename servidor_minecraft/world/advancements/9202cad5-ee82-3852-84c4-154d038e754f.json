@@ -5574,6 +5574,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-28 20:26:18 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-07-28 12:43:04 +0000"
@@ -10769,6 +10775,12 @@
   "ic2:composite_leggings_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-28 20:26:18 +0000"
     },
     "done": true
   },

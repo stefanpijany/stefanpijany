@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 20:47:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diving_board": {
     "criteria": {
       "has_wheat": "2025-07-28 17:11:45 +0000"
@@ -434,6 +440,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-07-28 15:35:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_corn": "2025-07-28 20:51:12 +0000"
     },
     "done": true
   },
@@ -920,6 +932,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_light_r": {
     "criteria": {
       "has_nether_bricks": "2025-07-28 15:56:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_corn": "2025-07-28 20:51:12 +0000"
     },
     "done": true
   },
@@ -1541,9 +1559,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 20:51:12 +0000"
+    },
+    "done": true
+  },
   "ic2:painter_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 14:01:35 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-07-28 20:46:29 +0000"
     },
     "done": true
   },
@@ -1592,6 +1622,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-07-28 15:35:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-07-28 20:47:01 +0000"
     },
     "done": true
   },
@@ -2270,6 +2306,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-28 15:48:16 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/air_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-28 20:50:07 +0000"
     },
     "done": true
   },
@@ -2958,6 +3000,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2025-07-28 20:51:12 +0000"
+    },
+    "done": true
+  },
   "deepresonance:recipes/deepresonance/filter_material": {
     "criteria": {
       "has_gravel": "2025-07-28 15:03:53 +0000"
@@ -3229,6 +3277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-28 20:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-28 12:38:52 +0000"
@@ -3400,6 +3454,12 @@
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-07-28 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-28 20:46:29 +0000"
     },
     "done": true
   },
@@ -3650,6 +3710,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/air_cannon": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-28 20:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-28 17:37:35 +0000"
@@ -3862,6 +3928,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-07-28 20:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-28 16:44:40 +0000"
@@ -3895,6 +3967,12 @@
   "alchemistry:recipes/dissolver/paper": {
     "criteria": {
       "has_the_recipe": "2025-07-28 18:06:52 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/charging_station": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-28 20:50:07 +0000"
     },
     "done": true
   },
@@ -4715,6 +4793,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/holy_hand_grenade": {
+    "criteria": {
+      "has_glowing_water": "2025-07-28 20:50:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-28 20:13:37 +0000"
@@ -5417,6 +5501,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/air_grate_module": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-28 20:50:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
@@ -5626,6 +5716,12 @@
   "byg:recipes/byg.byg/aspen_crafting_table": {
     "criteria": {
       "has_planks": "2025-07-28 19:21:20 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2025-07-28 20:45:59 +0000"
     },
     "done": true
   },
@@ -5878,6 +5974,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-07-28 16:54:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-28 20:50:08 +0000"
     },
     "done": true
   },
@@ -6247,6 +6349,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2025-07-28 20:51:12 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/logistics_module": {
     "criteria": {
       "has_logistics_core": "2025-07-28 17:46:50 +0000"
@@ -6358,6 +6466,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-07-28 15:37:06 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-07-28 20:45:15 +0000"
     },
     "done": true
   },
@@ -7389,6 +7503,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/tube_junction": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-28 20:50:07 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_glass_x1": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -8064,6 +8184,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
+    "criteria": {
+      "has_compass": "2025-07-28 20:46:12 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_skyris_planks": {
     "criteria": {
       "has_ingredient": "2025-07-28 12:36:39 +0000"
@@ -8140,6 +8266,12 @@
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-07-28 12:36:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/spawner_extractor": {
+    "criteria": {
+      "has_spawner_agitator": "2025-07-28 20:46:10 +0000"
     },
     "done": true
   },
@@ -8994,6 +9126,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2025-07-28 20:51:12 +0000"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:prairie": "2025-07-28 17:51:04 +0000",
@@ -9340,6 +9478,12 @@
   "ic2:mv_charge_bench_kit_indirect_gold_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 13:05:43 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/glowing_bread": {
+    "criteria": {
+      "has_glowing_water": "2025-07-28 20:50:05 +0000"
     },
     "done": true
   },
@@ -10061,6 +10205,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2025-07-28 20:46:04 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/liquid_hopper": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-07-28 17:46:17 +0000"
@@ -10761,6 +10911,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/remote": {
+    "criteria": {
+      "has_transistor": "2025-07-28 20:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-07-28 12:40:47 +0000"
@@ -10914,6 +11070,12 @@
   "ic2:sound_beacon_recipe_advancement": {
     "criteria": {
       "hasItem": "2025-07-28 17:36:31 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/manual_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-07-28 20:50:07 +0000"
     },
     "done": true
   },
@@ -11529,6 +11691,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-28 20:50:06 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_green_dye": {
     "criteria": {
       "chest": "2025-07-28 19:33:50 +0000"
@@ -11764,6 +11932,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-07-28 20:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-28 13:32:47 +0000"
@@ -11971,6 +12145,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-07-28 15:53:24 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2025-07-28 20:45:59 +0000"
     },
     "done": true
   },
@@ -12246,6 +12426,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 20:51:12 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-07-28 12:34:23 +0000"
@@ -12345,6 +12531,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-07-28 17:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-28 20:46:29 +0000"
     },
     "done": true
   },

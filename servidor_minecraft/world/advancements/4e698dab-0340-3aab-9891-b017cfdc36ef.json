@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-28 20:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-28 14:47:47 +0000"
@@ -4928,6 +4934,12 @@
     },
     "done": true
   },
+  "ic2:scrap_metal_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 20:42:39 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_dark_r": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-28 13:46:18 +0000"
@@ -6607,6 +6619,12 @@
   "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-07-28 11:32:44 +0000"
+    },
+    "done": true
+  },
+  "ic2:coal_ball_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 20:42:39 +0000"
     },
     "done": true
   },
@@ -9177,6 +9195,12 @@
   "alltheores:recipes/alltheores/iron_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-07-28 11:58:51 +0000"
+    },
+    "done": true
+  },
+  "ic2:raw_obsidian_blade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2025-07-28 20:42:39 +0000"
     },
     "done": true
   },

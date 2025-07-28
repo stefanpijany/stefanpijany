@@ -1934,3 +1934,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 22:20:21.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: Set own game mode to Survival Mode]
 [28Jul2025 22:21:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: falseKazuM has made the advancement [Into Fire]
 [28Jul2025 22:22:57.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[28Jul2025 22:27:32.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falseKazuM: The difficulty has been set to Peaceful]

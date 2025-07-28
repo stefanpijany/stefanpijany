@@ -1,6 +1,6 @@
 {
 	muted: false
-	fly: true
+	fly: false
 	god: false
 	nick: ""
 	last_seen: { dim: "minecraft:the_nether", x: -222, y: 19, z: 271, time: 1753740250907L, xRot: 13.817698f, yRot: 1.3881047f }

@@ -1553,3 +1553,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [28Jul2025 19:44:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]
 [28Jul2025 19:50:30.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]
 [28Jul2025 19:50:32.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the time to 0]
+[28Jul2025 19:55:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]
+[28Jul2025 20:01:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [falsemikolajk: Set the weather to clear]

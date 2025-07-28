@@ -2778,15 +2778,15 @@
     },
     "done": true
   },
-  "deepresonance:recipes/deepresonance/filter_material": {
-    "criteria": {
-      "has_gravel": "2025-07-28 17:33:05 +0000"
-    },
-    "done": true
-  },
   "additionallanterns:recipes/additionallanterns/cobbled_deepslate_chain": {
     "criteria": {
       "recipe_condition": "2025-07-28 17:30:24 +0000"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/filter_material": {
+    "criteria": {
+      "has_gravel": "2025-07-28 17:33:05 +0000"
     },
     "done": true
   },
@@ -4253,6 +4253,12 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-07-28 13:49:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-28 18:26:43 +0000"
     },
     "done": true
   },

@@ -4,6 +4,7 @@
 	owner: "4e698dab-0340-3aab-9891-b017cfdc36ef"
 	ranks: {
 		4e698dab-0340-3aab-9891-b017cfdc36ef: "owner"
+		9202cad5-ee82-3852-84c4-154d038e754f: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "KOXIKI"
@@ -23,6 +24,10 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1753720221683L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"KazuM\"}]}" }]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1753720221683L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"KazuM\"}]}" }
+		{ from: "4e698dab-0340-3aab-9891-b017cfdc36ef", date: 1756591582334L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"mikolajk\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756591587497L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"mikolajk\"}]}" }
+	]
 	extra: { }
 }

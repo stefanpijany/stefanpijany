@@ -2,9 +2,7 @@
 	id: "9202cad5-ee82-3852-84c4-154d038e754f"
 	type: "player"
 	player_name: "mikolajk"
-	ranks: {
-		9202cad5-ee82-3852-84c4-154d038e754f: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "mikolajk"
 		"ftbteams:description": ""

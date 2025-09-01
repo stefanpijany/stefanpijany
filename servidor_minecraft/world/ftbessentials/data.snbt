@@ -1,0 +1,12 @@
+{
+	warps: {
+		dom: { dim: "minecraft:overworld", x: -3729, y: 132, z: -1326, time: 1753897390873L, xRot: 8.6042795f, yRot: 0.9548534f }
+		diax: { dim: "minecraft:overworld", x: 30127, y: -44, z: -6788, time: 1754732120816L, xRot: 18.68523f, yRot: 23.447021f }
+		end: { dim: "minecraft:overworld", x: -8068, y: -15, z: -878, time: 1754734376612L, xRot: 12.758192f, yRot: -179.9281f }
+		highlands: { dim: "minecraft:the_end", x: 979, y: 62, z: -1316, time: 1754779073300L, xRot: 21.744091f, yRot: -93.2312f }
+		vil: { dim: "minecraft:overworld", x: -3035, y: 70, z: -1552, time: 1754814828416L, xRot: 21.656204f, yRot: -155.9725f }
+		exp: { dim: "minecraft:overworld", x: -3735, y: 103, z: -1321, time: 1755338968927L, xRot: -0.7209507f, yRot: -74.22211f }
+		piglich: { dim: "allthemodium:the_other", x: 569, y: 165, z: 262, time: 1755374157318L, xRot: 6.424603f, yRot: -36.953857f }
+	}
+	mute_timeouts: { }
+}
